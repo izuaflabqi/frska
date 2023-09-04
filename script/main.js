@@ -1,7 +1,7 @@
 // trigger to play music in the background with sweetalert
 window.addEventListener('load', () => {
   Swal.fire({
-    title: 'Apakah kamu ingin melihatnya dengan backsound?',
+    title: 'Ingin melihatnya dengan backsound?',
     // text: "You won't be able to revert this!",
     icon: 'warning',
     showCancelButton: true,
